@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Select } from '@ds.e/react';
+import { Select } from '@brkedon/react';
 
-import '@ds.e/scss/lib/Utilities.css';
-import '@ds.e/scss/lib/Text.css';
-import '@ds.e/scss/lib/Margin.css';
-import '@ds.e/scss/lib/Global.css';
-import '@ds.e/scss/lib/Select.css';
+import '@brkedon/scss/lib/Utilities.css';
+import '@brkedon/scss/lib/Text.css';
+import '@brkedon/scss/lib/Margin.css';
+import '@brkedon/scss/lib/Global.css';
+import '@brkedon/scss/lib/Select.css';
 
 const options = [
     { label: 'Option 1', value: 'option-1' },

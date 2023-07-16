@@ -23,6 +23,6 @@
     "dev": "parcel src/index.html -p 3000"
   },
   "dependencies": {
-    "@ds.e/scss": "^0.1.3"
+    "@brkedon/scss": "^0.1.3"
   }
 }
