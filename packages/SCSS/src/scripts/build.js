@@ -44,7 +44,6 @@ try {
 
 compile('src/global.scss', `${buildDir}/global.css`);
 
-console.log(getComponents)
 
 getComponents().forEach(component => {
     compile(component.input, component.output);
