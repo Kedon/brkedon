@@ -20,3 +20,7 @@
 
 @import "base/reset";
 @import "base/root";
+
+body {
+    font-family: $body-font-family
+}
